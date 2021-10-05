@@ -1,0 +1,16 @@
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.csproj.AssemblyReference.cache
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.AssemblyInfoInputs.cache
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.AssemblyInfo.cs
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.csproj.CoreCompileInputs.cache
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.exe
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.deps.json
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.runtimeconfig.json
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.runtimeconfig.dev.json
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.dll
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\ref\Async.dll
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\bin\Debug\net5.0\Async.pdb
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.dll
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\ref\Async.dll
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.pdb
+C:\Users\tuann\OneDrive\Desktop\C# fundamentals\Async\obj\Debug\net5.0\Async.genruntimeconfig.cache
